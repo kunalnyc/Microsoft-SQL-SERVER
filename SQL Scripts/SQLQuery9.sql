@@ -5,7 +5,7 @@ create table Numbers (
  
 );
 
-INSERT INTO Numbers(num1,num1,num3)
+INSERT INTO Numbers(num1,num2,num3)
 values (21,42,67);
 
 select max(n) as Largest
